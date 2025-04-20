@@ -1,4 +1,4 @@
-# Hi, I'm YourUsername! 👋
+# Hi, I'm AlwaysAError! 👋
 
 Welcome to my GitHub profile!
 
@@ -7,7 +7,3 @@ Welcome to my GitHub profile!
 
 ## 🛠️ My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=radical)
-
-## 🌟 About Me
-- 💻 I love coding in [your favorite languages]!
-- 📫 Reach me at [your email or socials].
