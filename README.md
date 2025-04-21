@@ -20,4 +20,4 @@ Welcome to my GitHub profile! Here are my stats and contributions.
 ## 📌 Pinned Repositories
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Repo1&theme=radical)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Repo2&theme=radical)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Repo3&theme=radical)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Insanity&theme=radical)
