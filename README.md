@@ -1,6 +1,6 @@
-# 👋 Hi, I'm AlwaysAError!
+# 👋 Hi, my name is Sam ****** ****** and my username is AlwaysAError.
 
-Welcome to my GitHub profile! Here are my stats and contributions.
+Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
 ## 😎 Profile Views As of 21/04/2025
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
