@@ -1,6 +1,4 @@
 # 👋 Hi, my name is Sam ****** ****** and my username is AlwaysAError.
-Most popular projects are below.
-All my projects and posts are in the repositories tab.
 
 Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
