@@ -21,11 +21,3 @@ Welcome to my GitHub profile! Here are my stats and contributions.
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Repo1&theme=radical)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Repo2&theme=radical)
 ![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysAError&repo=Repo3&theme=radical)
-
-## ⏰ Coding Time (WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=radical&layout=compact)
-
-## 🌟 About Me
-- 💻 I code in [your favorite languages]!
-- 📫 Reach me at [your email or socials].
-- 🔗 Check out my [portfolio/website]!
