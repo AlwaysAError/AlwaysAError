@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! Here are my stats and contributions.
 
-![Profile Views As of 21/04/2025](https://komarev.com/ghpvc/?username=AlwaysAError)
+## 😎 Profile Views As of 21/04/2025
+![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
 
 ## 📊 GitHub Stats
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
