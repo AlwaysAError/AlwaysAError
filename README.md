@@ -1,6 +1,7 @@
 # 👋 Hi, I'm AlwaysAError!
 
 Welcome to my GitHub profile! Here are my stats and contributions.
+![Profile views](https://komarev.com/ghpvc/?username=AlwaysAError)
 
 ## 📊 GitHub Stats
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
@@ -16,5 +17,3 @@ Welcome to my GitHub profile! Here are my stats and contributions.
 
 ## 📅 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
-
-![Profile views](https://komarev.com/ghpvc/?username=AlwaysAError)
