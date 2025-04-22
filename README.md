@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
-## 😎 Profile Views As of 21/04/2025
+## 😎 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
 
 ## 📊 GitHub Stats
