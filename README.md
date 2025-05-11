@@ -8,6 +8,8 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 > [!TIP]
 > Need to contact me? Add my Discord extremeblitz_
 
+<img alt="AlwaysAError" src="assets/fortnite.gif"> </img>
+
 ## 🗿 Join My Discord Server
 <a href="https://discord.gg/5qBMrNJAdh"><img src="https://img.shields.io/discord/1327612683301945404.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
