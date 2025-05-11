@@ -28,3 +28,6 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 🪪 Licence
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
+
+## 💷 Donate
+<i>Loved one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
