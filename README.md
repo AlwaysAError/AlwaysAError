@@ -8,6 +8,8 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 > [!TIP]
 > Need to contact me? Add my Discord extremeblitz_
 
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+
 ## 😎 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
 
