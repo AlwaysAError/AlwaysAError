@@ -20,10 +20,8 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
 
-TEST THINGS
 > [!NOTE]
-> **Welcome to my profile!**  
-> I'm a full-stack developer specializing in Python and JavaScript. Check out my projects below!
+>  This is a note box
 
 > [!TIP]
-> Want to collaborate? Reach out via email: example@email.com
+> Need to contact me? Add my Discord extremeblitz_
