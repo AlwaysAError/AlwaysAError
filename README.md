@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=transparent&no-frame=false&margin-w=15)
 
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=transparent)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
 
 ## 🪪 Licence
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
