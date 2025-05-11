@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlwaysAError&theme=transparent&show_all=true)
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=transparent&no-frame=false&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=radical&no-frame=false&margin-w=15)
 
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
