@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
 
 ## 📊 GitHub Stats
-![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
+![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
 
 ## 🛠️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=radical&langs_count=10&count_private=true)
