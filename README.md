@@ -8,7 +8,9 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 > [!TIP]
 > Need to contact me? Add my Discord extremeblitz_
 
-<img alt="AlwaysAError" src="assets/fortnite.gif"> </img>
+## 💷 Donate
+<i>Loved one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
+<img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
 
 ## 🗿 Join My Discord Server
 <a href="https://discord.gg/5qBMrNJAdh"><img src="https://img.shields.io/discord/1327612683301945404.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
@@ -34,10 +36,6 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ## 🪪 Licence
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
 
-## 💷 Donate
-<i>Loved one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
-<img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
-
 ## 📃 Repositories
 - [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit)
 - [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names)
@@ -50,3 +48,5 @@ Everything is 100% free to use and is fully open source. Feel free to use anythi
 
 ## 🍴 Forks
 - [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
+
+<img alt="AlwaysAError" src="assets/fortnite.gif"> </img>
