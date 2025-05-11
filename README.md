@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
+> [!NOTE]
+>  Everything on my profile is made by me unless stated otherwise.
+
+> [!TIP]
+> Need to contact me? Add my Discord extremeblitz_
+
 ## 😎 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
 
@@ -19,9 +25,3 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
-
-> [!NOTE]
->  This is a note box
-
-> [!TIP]
-> Need to contact me? Add my Discord extremeblitz_
