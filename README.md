@@ -32,6 +32,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radicl)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlwaysAError&theme=dark&show_all=true)
 
 ## 🪪 Licence
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
