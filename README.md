@@ -4,8 +4,6 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 😎 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
-![Add My Discord](extremeblitz)
-![Join My Discord Server](https://discord.gg/projectunban)
 
 ## 📊 GitHub Stats
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
@@ -21,3 +19,11 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
+
+TEST THINGS
+> [!NOTE]
+> **Welcome to my profile!**  
+> I'm a full-stack developer specializing in Python and JavaScript. Check out my projects below!
+
+> [!TIP]
+> Want to collaborate? Reach out via email: example@email.com
