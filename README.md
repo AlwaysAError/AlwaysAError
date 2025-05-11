@@ -36,14 +36,14 @@ Everything is 100% free to use and is fully open source. Feel free to use anythi
 <i>Loved one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
 
 ## 📃 Repositories
-[RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit)
-[Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names)
-[RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025)
-[RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer)
-[Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer)
-[C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker)
-[Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker)
-[RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity)
+- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit)
+- [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names)
+- [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025)
+- [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer)
+- [Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer)
+- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker)
+- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker)
+- [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity)
 
 ## 🍴 Forks
-[Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
+- [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
