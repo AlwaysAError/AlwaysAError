@@ -20,16 +20,16 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
 
 ## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=transparent&langs_count=10&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=dark&langs_count=10&count_private=true)
 
 ## 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlwaysAError&theme=transparent&show_all=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlwaysAError&theme=dark&show_all=true)
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=radical&no-frame=false&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=dark&no-frame=false&margin-w=15)
 
 ## 📅 Contribution Graph - I don't understand this so I hope you do!
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=dark)
 
 ## 🪪 Licence
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
