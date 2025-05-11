@@ -24,13 +24,10 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ## 🛠️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=dark&langs_count=10&count_private=true)
 
-## 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlwaysAError&theme=dark&show_all=true)
-
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=radical&no-frame=false&margin-w=15)
 
-## 📅 Contribution Graph - I don't understand this so I hope you do!
+## 📅 Contribution Stats
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlwaysAError&theme=radicl)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlwaysAError&theme=dark&show_all=true)
 
