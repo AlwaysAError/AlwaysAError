@@ -4,6 +4,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 😎 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)
+![Add My Discord](extremeblitz)
 
 ## 📊 GitHub Stats
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
