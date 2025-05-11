@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 > Need to contact me? Add my Discord extremeblitz_
 
 ## 💷 Donate
-<i>Loved one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
+<i>Love one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
 <img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
 
 ## 🗿 Join My Discord Server
@@ -49,4 +49,7 @@ Everything is 100% free to use and is fully open source. Feel free to use anythi
 ## 🍴 Forks
 - [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
 
+
+
+   
 <img alt="AlwaysAError" src="assets/fortnite.gif"> </img>
