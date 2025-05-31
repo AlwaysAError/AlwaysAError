@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 
 ## 😎 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)  
-![GitHub followers](https://img.shields.io/github/followers/AlwaysAError?label=Follow&style=social)  
+![GitHub followers](https://img.shields.io/github/followers/AlwaysAError?label=Followers&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AlwaysAError?affiliations=OWNER%2CCOLLABORATOR)  
 
 ## 📊 GitHub Stats
