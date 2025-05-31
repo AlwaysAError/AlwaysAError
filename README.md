@@ -19,6 +19,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)  
 ![GitHub followers](https://img.shields.io/github/followers/AlwaysAError?label=Followers&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/AlwaysAError?affiliations=OWNER%2CCOLLABORATOR)  
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
 
 ## 📊 GitHub Stats
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
