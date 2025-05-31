@@ -45,7 +45,7 @@ Everything is 100% free to use and is fully open source. Feel free to use anythi
 - [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker)
 - [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker)
 - [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity)
-- [System X]([https://github.com/AlwaysAError/Insanity](https://github.com/AlwaysAError/SystemX))
+- [System X](https://github.com/AlwaysAError/SystemX)
 
 ## 🍴 Forks
 - [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
