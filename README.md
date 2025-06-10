@@ -40,7 +40,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
 
 ## 📃 Repositories
-- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit)
+- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit) No longer being worked on as it's currently working
 - [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names)
 - [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025)
 - [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer)
