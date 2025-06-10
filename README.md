@@ -45,8 +45,8 @@ Everything is 100% free to use and is fully open source. Feel free to use anythi
 - [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025) No longer being worked on as all prefabs are currently working.
 - [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer) No longer being worked on. Use Insanity's RR cleaner instead.
 - [Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer) Being fixed and then ported to System X.
-- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker) No longer being worked on, was something I made for another project but decided to split the source code up.
-- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker) No longer being worked on. I made it after Microsoft removed wmic commands from Batch.
+- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker) No longer being worked on, was something I made for another project but decided to split the source code up so other people can use this code in there projects.
+- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker) No longer being worked on. I made it after Microsoft removed wmic commands from Batch so people can check there HWID's in Batch.
 - [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity) No longer being worked on. Code related to exploits has been removed and notes have been added so you get a better understanding of the code. I stopped working on Insanity because Visual Sutdio corrupted some of the main code and other stuff so the source code is a version before then.
 - [System X](https://github.com/AlwaysAError/SystemX) Currently being worked on (new update soon)
 - [Mocha/Latte Source Code Leak](https://github.com/AlwaysAError/rr-mocha-latte-source-leak) Yeah... I ain't updating this, you all can use this how ever you want.
