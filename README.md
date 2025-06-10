@@ -49,7 +49,7 @@ Everything is 100% free to use and is fully open source. Feel free to use anythi
 - [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker)
 - [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity)
 - [System X](https://github.com/AlwaysAError/SystemX)
-
+- [Mocha/Latte Source Code Leak](https://github.com/AlwaysAError/rr-mocha-latte-source-leak).
 ## 🍴 Forks
 - [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
 
