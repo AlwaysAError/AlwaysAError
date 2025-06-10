@@ -40,16 +40,16 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
 
 ## 📃 Repositories
-- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit) No longer being worked on as it's currently working
-- [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names)
-- [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025)
-- [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer)
-- [Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer)
-- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker)
-- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker)
-- [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity)
-- [System X](https://github.com/AlwaysAError/SystemX)
-- [Mocha/Latte Source Code Leak](https://github.com/AlwaysAError/rr-mocha-latte-source-leak)
+- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit) No longer being worked on as it does not need any updates. If this does break I'll update it for the third time.
+- [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names) No longer being worked on as it will work for ever.
+- [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025) No longer being worked on as all prefabs are currently working.
+- [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer) No longer being worked on. Use Insanity's RR cleaner instead.
+- [Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer) Being fixed and then ported to System X.
+- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker) No longer being worked on, was something I made for another project but decided to split the source code up.
+- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker) No longer being worked on. I made it after Microsoft removed wmic commands from Batch.
+- [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity) No longer being worked on. Code related to exploits has been removed and notes have been added so you get a better understanding of the code. I stopped working on Insanity because Visual Sutdio corrupted some of the main code and other stuff so the source code is a version before then.
+- [System X](https://github.com/AlwaysAError/SystemX) Currently being worked on (new update soon)
+- [Mocha/Latte Source Code Leak](https://github.com/AlwaysAError/rr-mocha-latte-source-leak) Yeah... I ain't updating this, you all can use this how ever you want.
 ## 🍴 Forks
 - [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
 
