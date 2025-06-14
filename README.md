@@ -26,7 +26,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
 
 ## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=dark&langs_count=19&count_private=flase)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=dark&langs_count=19&count_private=true)
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=radical&no-frame=false&margin-w=15)
