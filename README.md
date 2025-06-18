@@ -18,6 +18,9 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 </p>
 Stat above is just server members which are online, all together we have more than 1000 members.
 
+TEST<><><>
+[![Discord Member Count](https://img.shields.io/discord/1327612683301945404.svg?style=for-the-badge)](https://discord.gg/5qBMrNJAdh)
+
 ## 😎 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysAError)  
 ![GitHub followers](https://img.shields.io/github/followers/AlwaysAError?label=Followers&style=social)  
