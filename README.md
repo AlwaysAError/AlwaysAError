@@ -27,7 +27,7 @@ Stat above is just server members which are online, all together we have more th
 ![AlwaysAError's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwaysAError&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered)
 
 ## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=dark&langs_count=19&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysAError&layout=compact&theme=dark&langs_count=11&count_private=true)
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AlwaysAError&theme=radical&no-frame=false&margin-w=15)
