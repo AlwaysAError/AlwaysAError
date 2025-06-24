@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 <img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
 
 ## 🗿 Join My Discord Server
-<img alt="AlwaysAError" src="assets/ProjectUnban Promo Banner.gif"> </img>
+<img alt="AlwaysAError" src="assets/ProjectUnban Promo Banner.gif"> </img>  
 <a href="https://discord.gg/5qBMrNJAdh"><img src="https://img.shields.io/discord/1327612683301945404.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://discord.gg/5qBMrNJAdh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5qBMrNJAdh" height="30" width="40" /></a>
 </p>
