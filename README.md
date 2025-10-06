@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 > Need to contact me? Add my Discord mulibovich
 
 ## 💷 Donate
-<i>Love one of my projects? Please consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
+<i>Love one of my projects? Consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
 <img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
 
 ## 🗿 Join My Discord Server
