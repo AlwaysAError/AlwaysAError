@@ -40,17 +40,18 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
 
 ## 📃 Repositories
-- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit) No longer being worked on as it does not need any updates. If this does break I'll update it for the third time.
-- [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names) No longer being worked on as it will work for ever.
-- [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025) No longer being worked on as all prefabs are currently working.
-- [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer) No longer being worked on. Use Insanity's RR cleaner instead.
-- [Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer) Being fixed and then ported to System X.
-- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker) No longer being worked on, was something I made for another project but decided to split the source code up so other people can use this code in there projects.
-- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker) No longer being worked on. I made it after Microsoft removed wmic commands from Batch so people can check there HWID's in Batch.
-- [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity) No longer being worked on. Code related to exploits has been removed and notes have been added so you get a better understanding of the code. I stopped working on Insanity because Visual Sutdio corrupted some of the main code and other stuff so the source code is a version before then.
-- [System X](https://github.com/AlwaysAError/SystemX) Currently being worked on (new update soon)
-- [Biggest RecRoom Cheat Archive](https://github.com/AlwaysAError/RecRoom-Cheat-Archive) Gets updated when ever I found new stuff to add to it.
-- [Discord Age Check Bypass](https://github.com/AlwaysAError/Discord-Age-Check-Bypass) Will be updated when ever it is patched.
+- [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit) Allows the user to have both an invisible and super large username. [Still works]
+- [Space Bars In Discord Channel Names](https://github.com/AlwaysAError/Space-Bars-In-Discord-Channel-Names) Allows the user to have space bars in Discord channel names. [Still works]
+- [RecRoom 2025 Prefab List](https://github.com/AlwaysAError/RecRoom-Prefabs-2025) A list of all RecRoom prefabs. [All prefabs still work]
+- [RecRoom Cleaner](https://github.com/AlwaysAError/RecRoom-Spoofer) Allows the user to clean there RecRoom install to bypass bans. [Patched]
+- [Windows FPS And Ping Fixer](https://github.com/AlwaysAError/Windows-FPS-And-Ping-Fixer) Allows the username to have higher FPS and lower ping by stopping useless Windows process's [Broken]
+- [C++ HWID Checker](https://github.com/AlwaysAError/CPlusPlus-HWID-Checker) Allows the user to check there HWID's and system information. [WMIC API required]
+- [Batch HWID Checker](https://github.com/AlwaysAError/Batch-HWID-Checker) Allows the user to check there HWID's and system information. [WMIC API required]
+- [RecRoom Insanity Cheat](https://github.com/AlwaysAError/Insanity) The ImGui mainframe for a old RecRoom cheat I made called Insanity. [It use to work when it was maintained stop crying]
+- [System X](https://github.com/AlwaysAError/SystemX) Allows the user to manage there system with a nice selection of tools. [Actively being worked on]
+- [Biggest RecRoom Cheat Archive](https://github.com/AlwaysAError/RecRoom-Cheat-Archive) The biggest RecRoom cheat archive ever created. [Actively being updated]
+- [Discord Age Check Bypass](https://github.com/AlwaysAError/Discord-Age-Check-Bypass) Allows anyone to bypass Discord's age check. [Patched]
+- [VRChat Avatar Gallery](https://github.com/AlwaysAError/VRChat-Avatar-Gallery) Allows anyone to save as many avatars as they want without having to pay $9.99 every month.
 ## 🍴 Forks
 - [Discord Server Generater](https://github.com/AlwaysAError/Fork-Of-bytexenon)
 
