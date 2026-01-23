@@ -2,8 +2,9 @@
 
 Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
-> [!NOTE]
->  Everything on my profile is made by me unless stated otherwise.
+> [!Go Check Out My Website Will Ya?]
+>  Hell what the hell are you waiting for? https://legitgaming.org
+> <img alt="AlwaysAError" src="assets/THICC banner.gif"> </img>
 
 > [!TIP]
 > Need to contact me? Add my Discord mulibovich
