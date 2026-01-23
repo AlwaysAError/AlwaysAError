@@ -2,15 +2,15 @@
 
 Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
-> [!Go Check Out My Website Will Ya?]
->  Hell what the hell are you waiting for? https://legitgaming.org
+> [!NOTE]
+>  My website is the best onthe market :3 https://legitgaming.org
 > <img alt="AlwaysAError" src="assets/THICC banner.gif"> </img>
 
 > [!TIP]
 > Need to contact me? Add my Discord mulibovich
 
 ## 💷 Donate
-<i>Love one of my projects? Consider [donating](https://paypal.me/NoNo213757) it would be appreciated!</i>
+<i>Giving me more money? Don't do that for free I'm already rich give it to someone in need!</i>
 <img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
 
 ## 🗿 Join My Discord Server
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! Here are my stats and contributions and bla bla bl
 ![GitHub Repos](https://github-contributor-stats.vercel.app/api?username=AlwaysAError&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
 ## 🪪 Licence
-Everything is 100% free to use and is fully open source. Feel free to use anything how ever you  to use it how ever always remember giving credit is cool.
+Everything is 100% free to use and is fully open source. Feel free to use anything how ever always remember giving credit is cool.
 
 ## 📃 Repositories
 - [RecRoom Long Username Exploit](https://github.com/AlwaysAError/RecRoom-Username-Exploit) Allows the user to have both an invisible and super large username. [Still works]
