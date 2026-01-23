@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Sam ****** ****** and my username is AlwaysAError.
+# 👋 It's me AlwaysAError/MuliBovich your favourite stupid C++ coder.
 
 Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
