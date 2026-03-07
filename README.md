@@ -1,6 +1,4 @@
-# 👋 It's me AlwaysAError/MuliBovich your favourite stupid C++ coder.
-
-Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
+# Welcome to my GitHub profile! Here are my stats and contributions and bla bla bla.
 
 > [!NOTE]
 >  My website is the best on the market :3 https://legitgaming.org
