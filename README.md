@@ -7,7 +7,7 @@
 <div align="center">
   <p align="center"><b>Contact Me On Discord</b></p>
   <a href="https://discordapp.com/users/1327374088884453436" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-2/1327374088884453436"/>
+    <img src="https://discord.c99.nl/widget/theme-2/1327374088884453436.png"/>
       </a>
 </div>
 <img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
