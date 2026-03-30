@@ -4,8 +4,10 @@
 >  My website is the best on the market :3 https://legitgaming.org
 > <img alt="AlwaysAError" src="assets/THICC banner.gif"> </img>
 
-> [!TIP]
-> Need to contact me? Add my Discord mulibovich
+  <p align="center"><b>Contact with me on Discord</b></p>
+  <a href="https://discordapp.com/users/1327374088884453436" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-3/407242708143570967.png"/>
+  </a>
 
 ## 💷 Donate
 <i>Giving me more money? Don't do that for free I'm already rich give it to someone in need!</i>
