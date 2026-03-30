@@ -10,9 +10,6 @@
     <img src="https://discord.c99.nl/widget/theme-2/1327374088884453436.png"/>
       </a>
 </div>
-
-## 💷 Donate
-<i>Giving me more money? Don't do that for free I'm already rich give it to someone in need!</i>
 <img alt="AlwaysAError" src="assets/loadcat.gif"> </img>
 
 ## 🗿 Join My Discord Server
